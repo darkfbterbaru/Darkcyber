@@ -21,7 +21,7 @@ Maaf Bila Saya Agak Telat Benerin Script Karena Saya Sibuk Duta Kerjaan Numpuk
 pkg install git python2
 pip2 install --upgrade php
 git clone 
-https://github.com/dizart-y/DARK-FB
+https://github.com/darkfbterbaru/Darkcyber
 cd DARK-FB
 pip2 install -r requirements.txt
 python2 DarkPremium79.py
